@@ -1,9 +1,6 @@
 package numberty.git;
 
-public class Shape {
+public abstract class Shape {
 
-	public void draw()
-	{
-		System.out.println("I can not draw");
-	}
+	public abstract void draw();
 }

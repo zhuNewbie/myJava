@@ -10,7 +10,7 @@ public class JavaTest {
 		System.out.println("git test");
 		System.out.println("modify");
 		
-		Shape a = new Shape();
+		Shape a = new Circle();
 		a.draw();
 	}
 
