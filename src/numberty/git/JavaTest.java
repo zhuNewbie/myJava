@@ -9,6 +9,9 @@ public class JavaTest {
 		// TODO Auto-generated method stub
 		System.out.println("git test");
 		System.out.println("modify");
+		
+		Shape a = new Shape();
+		a.draw();
 	}
 
 }
